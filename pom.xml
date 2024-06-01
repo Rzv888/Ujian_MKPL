@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/Rzv888/Tugas_MKPL</url>
+      <url>https://maven.pkg.github.com/Rzv888/Ujian_MKPL</url>
     </repository>
   </distributionManagement>
   
